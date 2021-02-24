@@ -89,6 +89,7 @@ Modern browsers and Internet Explorer 10+.
 
 Copyright (c) 2017-present PanJiaChen
 
+## Describe
 jintaoLiu  2021-02-24 14:40
 be based on https://github.com/PanJiaChen/vue-admin-template.git  Cut - more streamlined
 It solves the problem of adjusting the time of each clone

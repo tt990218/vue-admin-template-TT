@@ -101,6 +101,7 @@ Modern browsers and Internet Explorer 10+.
 
 Copyright (c) 2017-present PanJiaChen
 
+## Describe
 
 jintaoLiu  2021-02-24 14:40
 基于 https://github.com/PanJiaChen/vue-admin-template.git 删减 - 更精简 
