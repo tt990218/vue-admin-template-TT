@@ -88,3 +88,10 @@ Modern browsers and Internet Explorer 10+.
 [MIT](https://github.com/PanJiaChen/vue-admin-template/blob/master/LICENSE) license.
 
 Copyright (c) 2017-present PanJiaChen
+
+jintaoLiu  2021-02-24 14:40
+be based on https://github.com/PanJiaChen/vue-admin-template.git  Cut - more streamlined
+It solves the problem of adjusting the time of each clone
+The syntax check in SRC folder is blocked. It can be opened in eslinignore file
+Removed analog data / interface
+Only the home page + form page is reserved

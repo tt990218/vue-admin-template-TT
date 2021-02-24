@@ -100,3 +100,11 @@ Modern browsers and Internet Explorer 10+.
 [MIT](https://github.com/PanJiaChen/vue-admin-template/blob/master/LICENSE) license.
 
 Copyright (c) 2017-present PanJiaChen
+
+
+jintaoLiu  2021-02-24 14:40
+基于 https://github.com/PanJiaChen/vue-admin-template.git 删减 - 更精简 
+    解决了每次clone下来调整项目的时间：
+    屏蔽了src文件夹下的语法检查 ( .eslintignore 文件中可打开 )
+    删除了模拟数据/接口
+    只保留了 主页 + 表单页
